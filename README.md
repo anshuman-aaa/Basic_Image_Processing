@@ -1,1 +1,1 @@
-# Basic_Image_Processing
+# Digital Image Processing using C++
