@@ -1,1 +1,2 @@
-# Basic_Image_Processing
+# Digital Image Processing using C++
+This repository contain codes as part of Image Processing Laboratory at IIT Kharagpur
